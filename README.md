@@ -8,7 +8,7 @@ This project implements a custom deep learning architecture that combines contex
 
 ## Architecture
 
-![Architecture](assets/architecture.png)
+![Architecture](architecture.png)
 
 The model processes documents through five interconnected stages:
 
